@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymupdf
+scikit-learn
+nltk
+openpyxl
